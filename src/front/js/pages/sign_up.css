@@ -1,0 +1,35 @@
+
+
+.email-password {
+    width: 100%;
+    padding: 1em;
+}
+
+.full-input {
+    margin-bottom: 2em;
+}
+
+.form-sign-up {
+    position: relative;
+    margin: auto;
+    width: 75%;
+    padding: 2em;
+    border: #EC9D9D 5px solid;
+    border-radius: 10px;
+    margin-top: 7em;
+}
+
+
+.signUp-btn {
+    background-color: #EC9D9D;
+    color: white;
+    width: 7em;
+    margin-top: 2em; 
+}
+
+.login-btn {
+    background-color: #EC9D9D;
+    color: white;
+    margin-top: 2em; 
+    width: 100%;
+}
